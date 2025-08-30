@@ -1,0 +1,51 @@
+﻿[Arrow]
+Path=Normal Select Water.ani
+
+[Help]
+Path=Help Select Water.ani
+
+[AppStarting]
+Path=Working on Backround Water.ani
+
+[Wait]
+Path=Busy Water.ani
+
+[Crosshair]
+Path=Precision Select Water.ani
+
+[IBeam]
+Path=Text Select Water.ani
+
+[NWPen]
+Path=Handwriting Water.ani
+
+[No]
+Path=Unavailable Water.ani
+
+[SizeNS]
+Path=Vertical Resize Water.ani
+
+[SizeWE]
+Path=Horizontal Resize Water.ani
+
+[SizeNWSE]
+Path=Diagonal Resize 1 Water.ani
+
+[SizeNESW]
+Path=Diagonal Resize 2 Water.ani
+
+[SizeAll]
+Path=Move Water.ani
+
+[UpArrow]
+Path=Alternate Select Water.ani
+
+[Hand]
+Path=Link Select Water.ani
+
+[Pin]
+Path=Location Select Water.ani
+
+[Person]
+Path=Person Select Water.ani
+
